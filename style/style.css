@@ -14,18 +14,16 @@
 .header {
   height: 170px;
   text-align: center;
-  padding: 40px 0px;
+  padding: 40px 0;
 }
 
 .title1 h1 {
   font-size: 35px;
   font-weight: bold;
-
 }
 
 .title2 {
   margin-top: 40px;
-    
 }
 
 .image {
@@ -63,10 +61,7 @@ img {
 }
 
 .fo h3 {
-  margin-top: 42px;
-}
-
-.fo h3 {
   margin-top: 45px;
 }
+
 
